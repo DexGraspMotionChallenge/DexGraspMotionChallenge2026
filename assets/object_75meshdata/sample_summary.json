@@ -1,0 +1,465 @@
+{
+  "count": 75,
+  "matched_source_objects": 5048,
+  "mesh_out": "/home/chenhaoxiong/research/DexGraspMotionChallenge2026 (\u526f\u672c)/assets/object_75meshdata",
+  "mesh_root": "/home/chenhaoxiong/research/DexGraspMotionChallenge2026 (\u526f\u672c)/assets/object_5048meshdata",
+  "missing_mesh_count": 0,
+  "num_diversity_keys": 75,
+  "objects": [
+    {
+      "diversity_key": "core-cellphone",
+      "mesh_dir": "core-cellphone-cf3f330fb6e3e034449ec657800ab951",
+      "object_code": "core-cellphone-cf3f330fb6e3e034449ec657800ab951",
+      "trajectory_file": "core-cellphone-cf3f330fb6e3e034449ec657800ab951.npy"
+    },
+    {
+      "diversity_key": "core-bottle",
+      "mesh_dir": "core-bottle-cf7a79435eb5b1bdb0be98650cd7fb6f",
+      "object_code": "core-bottle-cf7a79435eb5b1bdb0be98650cd7fb6f",
+      "trajectory_file": "core-bottle-cf7a79435eb5b1bdb0be98650cd7fb6f.npy"
+    },
+    {
+      "diversity_key": "core-jar",
+      "mesh_dir": "core-jar-d278b42591a08a1555f46d55537192b6",
+      "object_code": "core-jar-d278b42591a08a1555f46d55537192b6",
+      "trajectory_file": "core-jar-d278b42591a08a1555f46d55537192b6.npy"
+    },
+    {
+      "diversity_key": "ddg-gd",
+      "mesh_dir": "ddg-gd_mushroom_poisson_000",
+      "object_code": "ddg-gd_mushroom_poisson_000",
+      "trajectory_file": "ddg-gd_mushroom_poisson_000.npy"
+    },
+    {
+      "diversity_key": "core-mug",
+      "mesh_dir": "core-mug-73b8b6456221f4ea20d3c05c08e26f",
+      "object_code": "core-mug-73b8b6456221f4ea20d3c05c08e26f",
+      "trajectory_file": "core-mug-73b8b6456221f4ea20d3c05c08e26f.npy"
+    },
+    {
+      "diversity_key": "core-pistol",
+      "mesh_dir": "core-pistol-c29bc7b0dcdbc2b9e1f2a1daf140ac9f",
+      "object_code": "core-pistol-c29bc7b0dcdbc2b9e1f2a1daf140ac9f",
+      "trajectory_file": "core-pistol-c29bc7b0dcdbc2b9e1f2a1daf140ac9f.npy"
+    },
+    {
+      "diversity_key": "core-bowl",
+      "mesh_dir": "core-bowl-a73d531b90965199e5f6d587dbc348b5",
+      "object_code": "core-bowl-a73d531b90965199e5f6d587dbc348b5",
+      "trajectory_file": "core-bowl-a73d531b90965199e5f6d587dbc348b5.npy"
+    },
+    {
+      "diversity_key": "sem-CellPhone",
+      "mesh_dir": "sem-CellPhone-f42fdbed4f5cae8fbecc5889eb0cb75b",
+      "object_code": "sem-CellPhone-f42fdbed4f5cae8fbecc5889eb0cb75b",
+      "trajectory_file": "sem-CellPhone-f42fdbed4f5cae8fbecc5889eb0cb75b.npy"
+    },
+    {
+      "diversity_key": "sem-FoodItem",
+      "mesh_dir": "sem-FoodItem-5de9363ceed7c9bec73d0b6e2e584e57",
+      "object_code": "sem-FoodItem-5de9363ceed7c9bec73d0b6e2e584e57",
+      "trajectory_file": "sem-FoodItem-5de9363ceed7c9bec73d0b6e2e584e57.npy"
+    },
+    {
+      "diversity_key": "core-camera",
+      "mesh_dir": "core-camera-c3e6564fe7c8157ecedd967f62b864ab",
+      "object_code": "core-camera-c3e6564fe7c8157ecedd967f62b864ab",
+      "trajectory_file": "core-camera-c3e6564fe7c8157ecedd967f62b864ab.npy"
+    },
+    {
+      "diversity_key": "core-can",
+      "mesh_dir": "core-can-7bd05573c09fb0c2af39ccaab9314b14",
+      "object_code": "core-can-7bd05573c09fb0c2af39ccaab9314b14",
+      "trajectory_file": "core-can-7bd05573c09fb0c2af39ccaab9314b14.npy"
+    },
+    {
+      "diversity_key": "ddg-bigbird",
+      "mesh_dir": "ddg-bigbird_dove_beauty_cream_bar",
+      "object_code": "ddg-bigbird_dove_beauty_cream_bar",
+      "trajectory_file": "ddg-bigbird_dove_beauty_cream_bar.npy"
+    },
+    {
+      "diversity_key": "sem-DrinkingUtensil",
+      "mesh_dir": "sem-DrinkingUtensil-52273f4b17505e898ef19a48ac4fcfdf",
+      "object_code": "sem-DrinkingUtensil-52273f4b17505e898ef19a48ac4fcfdf",
+      "trajectory_file": "sem-DrinkingUtensil-52273f4b17505e898ef19a48ac4fcfdf.npy"
+    },
+    {
+      "diversity_key": "sem-Bottle",
+      "mesh_dir": "sem-Bottle-3108a736282eec1bc58e834f0b160845",
+      "object_code": "sem-Bottle-3108a736282eec1bc58e834f0b160845",
+      "trajectory_file": "sem-Bottle-3108a736282eec1bc58e834f0b160845.npy"
+    },
+    {
+      "diversity_key": "ddg-kit",
+      "mesh_dir": "ddg-kit_ChocMarshmallows",
+      "object_code": "ddg-kit_ChocMarshmallows",
+      "trajectory_file": "ddg-kit_ChocMarshmallows.npy"
+    },
+    {
+      "diversity_key": "core-pillow",
+      "mesh_dir": "core-pillow-55a09adb1315764f8a766d8de50bb39d",
+      "object_code": "core-pillow-55a09adb1315764f8a766d8de50bb39d",
+      "trajectory_file": "core-pillow-55a09adb1315764f8a766d8de50bb39d.npy"
+    },
+    {
+      "diversity_key": "sem-ToyFigure",
+      "mesh_dir": "sem-ToyFigure-8c80c3ecf9261439f793ef7c6c5c66",
+      "object_code": "sem-ToyFigure-8c80c3ecf9261439f793ef7c6c5c66",
+      "trajectory_file": "sem-ToyFigure-8c80c3ecf9261439f793ef7c6c5c66.npy"
+    },
+    {
+      "diversity_key": "sem-Book",
+      "mesh_dir": "sem-Book-a793d662d70db6b39774d2c749f8f717",
+      "object_code": "sem-Book-a793d662d70db6b39774d2c749f8f717",
+      "trajectory_file": "sem-Book-a793d662d70db6b39774d2c749f8f717.npy"
+    },
+    {
+      "diversity_key": "sem-Vase",
+      "mesh_dir": "sem-Vase-ef5269ba557da598561dce3fe08634b7",
+      "object_code": "sem-Vase-ef5269ba557da598561dce3fe08634b7",
+      "trajectory_file": "sem-Vase-ef5269ba557da598561dce3fe08634b7.npy"
+    },
+    {
+      "diversity_key": "sem-Camera",
+      "mesh_dir": "sem-Camera-936a458fdb8eb12171dc2053392a6e6f",
+      "object_code": "sem-Camera-936a458fdb8eb12171dc2053392a6e6f",
+      "trajectory_file": "sem-Camera-936a458fdb8eb12171dc2053392a6e6f.npy"
+    },
+    {
+      "diversity_key": "sem-Piano",
+      "mesh_dir": "sem-Piano-5e3aa6ba5934dfc6a9a82795b0444b1e",
+      "object_code": "sem-Piano-5e3aa6ba5934dfc6a9a82795b0444b1e",
+      "trajectory_file": "sem-Piano-5e3aa6ba5934dfc6a9a82795b0444b1e.npy"
+    },
+    {
+      "diversity_key": "sem-VideoGameConsole",
+      "mesh_dir": "sem-VideoGameConsole-c0fe7631c31547b31dd4e193654d2ee5",
+      "object_code": "sem-VideoGameConsole-c0fe7631c31547b31dd4e193654d2ee5",
+      "trajectory_file": "sem-VideoGameConsole-c0fe7631c31547b31dd4e193654d2ee5.npy"
+    },
+    {
+      "diversity_key": "core-remote",
+      "mesh_dir": "core-remote-5938818cc2f2cfbe9cb9203a133c0554",
+      "object_code": "core-remote-5938818cc2f2cfbe9cb9203a133c0554",
+      "trajectory_file": "core-remote-5938818cc2f2cfbe9cb9203a133c0554.npy"
+    },
+    {
+      "diversity_key": "mujoco-Reebok",
+      "mesh_dir": "mujoco-Reebok_ZIGTECH_SHARK_MAYHEM360",
+      "object_code": "mujoco-Reebok_ZIGTECH_SHARK_MAYHEM360",
+      "trajectory_file": "mujoco-Reebok_ZIGTECH_SHARK_MAYHEM360.npy"
+    },
+    {
+      "diversity_key": "mujoco-Womens",
+      "mesh_dir": "mujoco-Womens_Suede_Bahama_in_Graphite_Suede_p1KUwoWbw7R",
+      "object_code": "mujoco-Womens_Suede_Bahama_in_Graphite_Suede_p1KUwoWbw7R",
+      "trajectory_file": "mujoco-Womens_Suede_Bahama_in_Graphite_Suede_p1KUwoWbw7R.npy"
+    },
+    {
+      "diversity_key": "ddg-ycb",
+      "mesh_dir": "ddg-ycb_065-c_cups",
+      "object_code": "ddg-ycb_065-c_cups",
+      "trajectory_file": "ddg-ycb_065-c_cups.npy"
+    },
+    {
+      "diversity_key": "mujoco-Ecoforms",
+      "mesh_dir": "mujoco-Ecoforms_Plant_Saucer_S20MOCHA",
+      "object_code": "mujoco-Ecoforms_Plant_Saucer_S20MOCHA",
+      "trajectory_file": "mujoco-Ecoforms_Plant_Saucer_S20MOCHA.npy"
+    },
+    {
+      "diversity_key": "sem-VideoGameController",
+      "mesh_dir": "sem-VideoGameController-c906b5644fe468a2b61fb7ca6803b7a5",
+      "object_code": "sem-VideoGameController-c906b5644fe468a2b61fb7ca6803b7a5",
+      "trajectory_file": "sem-VideoGameController-c906b5644fe468a2b61fb7ca6803b7a5.npy"
+    },
+    {
+      "diversity_key": "sem-Ipod",
+      "mesh_dir": "sem-Ipod-a56a2084d631876fda7fbc266d41ec0e",
+      "object_code": "sem-Ipod-a56a2084d631876fda7fbc266d41ec0e",
+      "trajectory_file": "sem-Ipod-a56a2084d631876fda7fbc266d41ec0e.npy"
+    },
+    {
+      "diversity_key": "mujoco-Perricone",
+      "mesh_dir": "mujoco-Perricone_MD_Face_Finishing_Moisturizer",
+      "object_code": "mujoco-Perricone_MD_Face_Finishing_Moisturizer",
+      "trajectory_file": "mujoco-Perricone_MD_Face_Finishing_Moisturizer.npy"
+    },
+    {
+      "diversity_key": "sem-TableClock",
+      "mesh_dir": "sem-TableClock-24b5dbb43ebc21d351a3cde61844b03f",
+      "object_code": "sem-TableClock-24b5dbb43ebc21d351a3cde61844b03f",
+      "trajectory_file": "sem-TableClock-24b5dbb43ebc21d351a3cde61844b03f.npy"
+    },
+    {
+      "diversity_key": "sem-Calculator",
+      "mesh_dir": "sem-Calculator-d08f980577e061b3689728fb96d00170",
+      "object_code": "sem-Calculator-d08f980577e061b3689728fb96d00170",
+      "trajectory_file": "sem-Calculator-d08f980577e061b3689728fb96d00170.npy"
+    },
+    {
+      "diversity_key": "mujoco-Mens",
+      "mesh_dir": "mujoco-Mens_Billfish_Slip_On_in_Coffee_nK6AJJAHOae",
+      "object_code": "mujoco-Mens_Billfish_Slip_On_in_Coffee_nK6AJJAHOae",
+      "trajectory_file": "mujoco-Mens_Billfish_Slip_On_in_Coffee_nK6AJJAHOae.npy"
+    },
+    {
+      "diversity_key": "mujoco-Office",
+      "mesh_dir": "mujoco-Office_Depot_Canon_CLI36_Remanufactured_Ink_Cartridge_TriColor",
+      "object_code": "mujoco-Office_Depot_Canon_CLI36_Remanufactured_Ink_Cartridge_TriColor",
+      "trajectory_file": "mujoco-Office_Depot_Canon_CLI36_Remanufactured_Ink_Cartridge_TriColor.npy"
+    },
+    {
+      "diversity_key": "sem-SodaCan",
+      "mesh_dir": "sem-SodaCan-295be2a01cb9f29b716714dd1fd945b7",
+      "object_code": "sem-SodaCan-295be2a01cb9f29b716714dd1fd945b7",
+      "trajectory_file": "sem-SodaCan-295be2a01cb9f29b716714dd1fd945b7.npy"
+    },
+    {
+      "diversity_key": "sem-Stapler",
+      "mesh_dir": "sem-Stapler-988004d506b3b75e5e40cf2ee4f6ead",
+      "object_code": "sem-Stapler-988004d506b3b75e5e40cf2ee4f6ead",
+      "trajectory_file": "sem-Stapler-988004d506b3b75e5e40cf2ee4f6ead.npy"
+    },
+    {
+      "diversity_key": "sem-Telephone",
+      "mesh_dir": "sem-Telephone-4185eb13a6f35bccb75e01624252de22",
+      "object_code": "sem-Telephone-4185eb13a6f35bccb75e01624252de22",
+      "trajectory_file": "sem-Telephone-4185eb13a6f35bccb75e01624252de22.npy"
+    },
+    {
+      "diversity_key": "sem-ToiletPaper",
+      "mesh_dir": "sem-ToiletPaper-f7cd7da83f3e045d3321831d2245cf06",
+      "object_code": "sem-ToiletPaper-f7cd7da83f3e045d3321831d2245cf06",
+      "trajectory_file": "sem-ToiletPaper-f7cd7da83f3e045d3321831d2245cf06.npy"
+    },
+    {
+      "diversity_key": "sem-WallClock",
+      "mesh_dir": "sem-WallClock-71bf8d678caec58735836c728d324152",
+      "object_code": "sem-WallClock-71bf8d678caec58735836c728d324152",
+      "trajectory_file": "sem-WallClock-71bf8d678caec58735836c728d324152.npy"
+    },
+    {
+      "diversity_key": "sem-Bowl",
+      "mesh_dir": "sem-Bowl-6a772d12b98ab61dc26651d9d35b77ca",
+      "object_code": "sem-Bowl-6a772d12b98ab61dc26651d9d35b77ca",
+      "trajectory_file": "sem-Bowl-6a772d12b98ab61dc26651d9d35b77ca.npy"
+    },
+    {
+      "diversity_key": "sem-Candle",
+      "mesh_dir": "sem-Candle-f8760b585415ba4a6b32fbc60e12dcfe",
+      "object_code": "sem-Candle-f8760b585415ba4a6b32fbc60e12dcfe",
+      "trajectory_file": "sem-Candle-f8760b585415ba4a6b32fbc60e12dcfe.npy"
+    },
+    {
+      "diversity_key": "sem-CerealBox",
+      "mesh_dir": "sem-CerealBox-c87bb65a628e0ca6a4bd57b754f4233c",
+      "object_code": "sem-CerealBox-c87bb65a628e0ca6a4bd57b754f4233c",
+      "trajectory_file": "sem-CerealBox-c87bb65a628e0ca6a4bd57b754f4233c.npy"
+    },
+    {
+      "diversity_key": "sem-USBStick",
+      "mesh_dir": "sem-USBStick-d1d5e86583e0e5f950648c342f01b361",
+      "object_code": "sem-USBStick-d1d5e86583e0e5f950648c342f01b361",
+      "trajectory_file": "sem-USBStick-d1d5e86583e0e5f950648c342f01b361.npy"
+    },
+    {
+      "diversity_key": "sem-TissueBox",
+      "mesh_dir": "sem-TissueBox-266911058f9345d8c6e01b363ae6db1b",
+      "object_code": "sem-TissueBox-266911058f9345d8c6e01b363ae6db1b",
+      "trajectory_file": "sem-TissueBox-266911058f9345d8c6e01b363ae6db1b.npy"
+    },
+    {
+      "diversity_key": "sem-Clock",
+      "mesh_dir": "sem-Clock-1944938643bdb1dd56538cee362f80d0",
+      "object_code": "sem-Clock-1944938643bdb1dd56538cee362f80d0",
+      "trajectory_file": "sem-Clock-1944938643bdb1dd56538cee362f80d0.npy"
+    },
+    {
+      "diversity_key": "sem-Headphones",
+      "mesh_dir": "sem-Headphones-2b28e2a5080101d245af43a64155c221",
+      "object_code": "sem-Headphones-2b28e2a5080101d245af43a64155c221",
+      "trajectory_file": "sem-Headphones-2b28e2a5080101d245af43a64155c221.npy"
+    },
+    {
+      "diversity_key": "sem-FileCabinet",
+      "mesh_dir": "sem-FileCabinet-1f13b46cbc4741b3c2e50348f23d3d",
+      "object_code": "sem-FileCabinet-1f13b46cbc4741b3c2e50348f23d3d",
+      "trajectory_file": "sem-FileCabinet-1f13b46cbc4741b3c2e50348f23d3d.npy"
+    },
+    {
+      "diversity_key": "mujoco-Cole",
+      "mesh_dir": "mujoco-Cole_Hardware_Dishtowel_Blue",
+      "object_code": "mujoco-Cole_Hardware_Dishtowel_Blue",
+      "trajectory_file": "mujoco-Cole_Hardware_Dishtowel_Blue.npy"
+    },
+    {
+      "diversity_key": "mujoco-Olive",
+      "mesh_dir": "mujoco-Olive_Kids_Dinosaur_Land_Pack_n_Snack",
+      "object_code": "mujoco-Olive_Kids_Dinosaur_Land_Pack_n_Snack",
+      "trajectory_file": "mujoco-Olive_Kids_Dinosaur_Land_Pack_n_Snack.npy"
+    },
+    {
+      "diversity_key": "sem-PersonStanding",
+      "mesh_dir": "sem-PersonStanding-942934260acc0317a3e9c423232171a1",
+      "object_code": "sem-PersonStanding-942934260acc0317a3e9c423232171a1",
+      "trajectory_file": "sem-PersonStanding-942934260acc0317a3e9c423232171a1.npy"
+    },
+    {
+      "diversity_key": "sem-Battery",
+      "mesh_dir": "sem-Battery-3f16a24e0f77a392f7aa33a9774f16af",
+      "object_code": "sem-Battery-3f16a24e0f77a392f7aa33a9774f16af",
+      "trajectory_file": "sem-Battery-3f16a24e0f77a392f7aa33a9774f16af.npy"
+    },
+    {
+      "diversity_key": "sem-Pillow",
+      "mesh_dir": "sem-Pillow-f3815806340d0fededa761b10992452d",
+      "object_code": "sem-Pillow-f3815806340d0fededa761b10992452d",
+      "trajectory_file": "sem-Pillow-f3815806340d0fededa761b10992452d.npy"
+    },
+    {
+      "diversity_key": "sem-Bear",
+      "mesh_dir": "sem-Bear-3695cb6bc925dfa1f6a5b0146bf3030",
+      "object_code": "sem-Bear-3695cb6bc925dfa1f6a5b0146bf3030",
+      "trajectory_file": "sem-Bear-3695cb6bc925dfa1f6a5b0146bf3030.npy"
+    },
+    {
+      "diversity_key": "sem-Gun",
+      "mesh_dir": "sem-Gun-22f63b4d311339bc357baa13baa16351",
+      "object_code": "sem-Gun-22f63b4d311339bc357baa13baa16351",
+      "trajectory_file": "sem-Gun-22f63b4d311339bc357baa13baa16351.npy"
+    },
+    {
+      "diversity_key": "sem-MilkCarton",
+      "mesh_dir": "sem-MilkCarton-fce427271b63011bfefca37858a6cef8",
+      "object_code": "sem-MilkCarton-fce427271b63011bfefca37858a6cef8",
+      "trajectory_file": "sem-MilkCarton-fce427271b63011bfefca37858a6cef8.npy"
+    },
+    {
+      "diversity_key": "sem-Truck",
+      "mesh_dir": "sem-Truck-929b988c79fcc34a8b9c5bfdb1fdd04e",
+      "object_code": "sem-Truck-929b988c79fcc34a8b9c5bfdb1fdd04e",
+      "trajectory_file": "sem-Truck-929b988c79fcc34a8b9c5bfdb1fdd04e.npy"
+    },
+    {
+      "diversity_key": "sem-PillBottle",
+      "mesh_dir": "sem-PillBottle-6aba175c988c8bec9fac57ed2e044778",
+      "object_code": "sem-PillBottle-6aba175c988c8bec9fac57ed2e044778",
+      "trajectory_file": "sem-PillBottle-6aba175c988c8bec9fac57ed2e044778.npy"
+    },
+    {
+      "diversity_key": "mujoco-ASICS",
+      "mesh_dir": "mujoco-ASICS_GELResolution_5_Flash_YellowBlackSilver",
+      "object_code": "mujoco-ASICS_GELResolution_5_Flash_YellowBlackSilver",
+      "trajectory_file": "mujoco-ASICS_GELResolution_5_Flash_YellowBlackSilver.npy"
+    },
+    {
+      "diversity_key": "sem-Car",
+      "mesh_dir": "sem-Car-f9c2bc7b4ef896e7146ff63b4c7525d9",
+      "object_code": "sem-Car-f9c2bc7b4ef896e7146ff63b4c7525d9",
+      "trajectory_file": "sem-Car-f9c2bc7b4ef896e7146ff63b4c7525d9.npy"
+    },
+    {
+      "diversity_key": "sem-Flashlight",
+      "mesh_dir": "sem-Flashlight-915540c9c81ddc63a5901d93c937a07e",
+      "object_code": "sem-Flashlight-915540c9c81ddc63a5901d93c937a07e",
+      "trajectory_file": "sem-Flashlight-915540c9c81ddc63a5901d93c937a07e.npy"
+    },
+    {
+      "diversity_key": "sem-Horse",
+      "mesh_dir": "sem-Horse-2a05d3998ba1582ce80df3c23687288a",
+      "object_code": "sem-Horse-2a05d3998ba1582ce80df3c23687288a",
+      "trajectory_file": "sem-Horse-2a05d3998ba1582ce80df3c23687288a.npy"
+    },
+    {
+      "diversity_key": "mujoco-Threshold",
+      "mesh_dir": "mujoco-Threshold_Ramekin_White_Porcelain",
+      "object_code": "mujoco-Threshold_Ramekin_White_Porcelain",
+      "trajectory_file": "mujoco-Threshold_Ramekin_White_Porcelain.npy"
+    },
+    {
+      "diversity_key": "mujoco-Timberland",
+      "mesh_dir": "mujoco-Timberland_Mens_Earthkeepers_Casco_Bay_Suede_1Eye",
+      "object_code": "mujoco-Timberland_Mens_Earthkeepers_Casco_Bay_Suede_1Eye",
+      "trajectory_file": "mujoco-Timberland_Mens_Earthkeepers_Casco_Bay_Suede_1Eye.npy"
+    },
+    {
+      "diversity_key": "sem-Eraser",
+      "mesh_dir": "sem-Eraser-710d1956e3cbcd8e9f691c76e6f0f71d",
+      "object_code": "sem-Eraser-710d1956e3cbcd8e9f691c76e6f0f71d",
+      "trajectory_file": "sem-Eraser-710d1956e3cbcd8e9f691c76e6f0f71d.npy"
+    },
+    {
+      "diversity_key": "sem-Tank",
+      "mesh_dir": "sem-Tank-46b4d1c0ee560d6f68090cded41dd5cd",
+      "object_code": "sem-Tank-46b4d1c0ee560d6f68090cded41dd5cd",
+      "trajectory_file": "sem-Tank-46b4d1c0ee560d6f68090cded41dd5cd.npy"
+    },
+    {
+      "diversity_key": "sem-Thumbtack",
+      "mesh_dir": "sem-Thumbtack-42ece945238a9f7a8877c667ba5c2021",
+      "object_code": "sem-Thumbtack-42ece945238a9f7a8877c667ba5c2021",
+      "trajectory_file": "sem-Thumbtack-42ece945238a9f7a8877c667ba5c2021.npy"
+    },
+    {
+      "diversity_key": "sem-ComputerMouse",
+      "mesh_dir": "sem-ComputerMouse-d578b1493e118a736d07c55cf995503e",
+      "object_code": "sem-ComputerMouse-d578b1493e118a736d07c55cf995503e",
+      "trajectory_file": "sem-ComputerMouse-d578b1493e118a736d07c55cf995503e.npy"
+    },
+    {
+      "diversity_key": "sem-RubiksCube",
+      "mesh_dir": "sem-RubiksCube-4e9447dfd2b56527fc7a8e315c9ddc8",
+      "object_code": "sem-RubiksCube-4e9447dfd2b56527fc7a8e315c9ddc8",
+      "trajectory_file": "sem-RubiksCube-4e9447dfd2b56527fc7a8e315c9ddc8.npy"
+    },
+    {
+      "diversity_key": "sem-Fruit",
+      "mesh_dir": "sem-Fruit-7d78e217e0ba160fe2b248b8bb97d290",
+      "object_code": "sem-Fruit-7d78e217e0ba160fe2b248b8bb97d290",
+      "trajectory_file": "sem-Fruit-7d78e217e0ba160fe2b248b8bb97d290.npy"
+    },
+    {
+      "diversity_key": "sem-Lock",
+      "mesh_dir": "sem-Lock-648154d1f8113a502a40bb58e14b2f89",
+      "object_code": "sem-Lock-648154d1f8113a502a40bb58e14b2f89",
+      "trajectory_file": "sem-Lock-648154d1f8113a502a40bb58e14b2f89.npy"
+    },
+    {
+      "diversity_key": "sem-Radio",
+      "mesh_dir": "sem-Radio-7d1f7561729128f41f8d5edb17ddb332",
+      "object_code": "sem-Radio-7d1f7561729128f41f8d5edb17ddb332",
+      "trajectory_file": "sem-Radio-7d1f7561729128f41f8d5edb17ddb332.npy"
+    },
+    {
+      "diversity_key": "mujoco-Asus",
+      "mesh_dir": "mujoco-Asus_X99Deluxe_Motherboard_ATX_LGA2011v3_Socket",
+      "object_code": "mujoco-Asus_X99Deluxe_Motherboard_ATX_LGA2011v3_Socket",
+      "trajectory_file": "mujoco-Asus_X99Deluxe_Motherboard_ATX_LGA2011v3_Socket.npy"
+    },
+    {
+      "diversity_key": "mujoco-Crayola",
+      "mesh_dir": "mujoco-Crayola_Crayons_Washable_24_crayons",
+      "object_code": "mujoco-Crayola_Crayons_Washable_24_crayons",
+      "trajectory_file": "mujoco-Crayola_Crayons_Washable_24_crayons.npy"
+    },
+    {
+      "diversity_key": "mujoco-Epson",
+      "mesh_dir": "mujoco-Epson_273XL_Ink_Cartridge_Magenta",
+      "object_code": "mujoco-Epson_273XL_Ink_Cartridge_Magenta",
+      "trajectory_file": "mujoco-Epson_273XL_Ink_Cartridge_Magenta.npy"
+    },
+    {
+      "diversity_key": "sem-LightBulb",
+      "mesh_dir": "sem-LightBulb-8338a18d589c26d21c648623457982d0",
+      "object_code": "sem-LightBulb-8338a18d589c26d21c648623457982d0",
+      "trajectory_file": "sem-LightBulb-8338a18d589c26d21c648623457982d0.npy"
+    }
+  ],
+  "seed": 42,
+  "source_mesh_dirs": 5048,
+  "source_trajectories": 5048,
+  "traj_out": "/home/chenhaoxiong/research/DexGraspMotionChallenge2026 (\u526f\u672c)/dexgrasp/linkerhand_small_75",
+  "traj_root": "/home/chenhaoxiong/research/DexGraspMotionChallenge2026 (\u526f\u672c)/dexgrasp/linkerhand_small_all"
+}

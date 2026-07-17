@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+ActionDiffusion/bc/saved_models/
+dexgrasp/results/
+dexgrasp/logs/
+logs/
+runs/
+wandb/
+
+*.ckpt
+*.pth
+!dexgrasp/dexrep/pointnet_model/*.pt
