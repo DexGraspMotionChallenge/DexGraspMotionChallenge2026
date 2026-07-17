@@ -116,7 +116,7 @@ Our method utilizes [DexRep](https://arxiv.org/pdf/2303.09806), a representation
 
 Our baseline is trained with behavioral cloning from expert grasping trajectories. The default configuration uses a DexRep-based temporal TCN policy network.
 
-We randomly sampled grasp trajectory data from 75 objects to train an initial baseline model in this demo, which achieved a grasp success rate of 23.93% on the test set. This will serve as the baseline for this competition. The dataset sample is already included in the demo and is ready for direct use. Furthermore, we highly encourage participants to explore training and testing with a broader range of object data. 
+We randomly sampled grasp trajectory data from 75 objects to train an initial baseline model in this demo, which achieved a grasp success rate of `23.93%` on the test set. This will serve as the baseline for this competition. The dataset sample is already included in the demo and is ready for direct use. Furthermore, we highly encourage participants to explore training and testing with a broader range of object data. 
 
 > **Note:** Ultimately, the test set provided in the demo will not be used to evaluate the final performance of the submitted models. To ensure a fair and consistent assessment for all participating teams, submissions will be evaluated on a private, held-out test set. The performance on this private test set will serve as the sole criterion for the final competition scoring.  
 

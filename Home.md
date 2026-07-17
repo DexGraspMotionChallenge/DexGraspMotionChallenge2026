@@ -7,6 +7,8 @@ grasping, mixed reality interaction, etc. Therefore, we design a grasp motion ge
 aims at producing physical plausible grasp motion trajectories conditioned on 3D objects.
 
 The challenge is built on the [**GraspM3 dataset**](https://lihaoming45.github.io/GraspM3/index.html). 
+We have retargeted this dataset to the LinkerHand O6, enabling the challenge to be conducted on the O6 hand. 
+You can obtain the corresponding O6 dataset by filling out the [request form](https://forms.office.com/r/ZzCqsy7ft8).
 An example for the training and testing of grasp motion generation will be provided prior to the challenge /
 via github ([This Repository](https://github.com/DexGraspMotionChallenge/DexGraspMotionChallenge2026)). 
 
@@ -64,7 +66,7 @@ Participants are required to submit following files：
 
 Results should be submitted via email. If the file size is too large, please provide an external download link.
 
-Please send your submission to `DexGraspMotionChallenge@outlook.com``ouyangwz@zju.edu.cn` and `xch118158@163.com` along with clear instructions for downloading the submission files. If you do not receive a response to your email after an extended period, please submit an issue via this repository.
+Please send your submission to `ouyangwz@zju.edu.cn` and `xch118158@163.com` along with clear instructions for downloading the submission files. If you do not receive a response to your email after an extended period, please submit an issue via this repository.
 
 ## **Support**
 
