@@ -14,7 +14,7 @@ via github ([This Repository](https://github.com/DexGraspMotionChallenge/DexGras
 
 ## **Important Dates**
 
-- **Submission deadline** for results: September 14, 2025 (11:59PM PST)
+- **Submission deadline** for results: September 14, 2026 (11:59PM PST)
 - Results will be shared during the HANDS workshop at ECCV 2026
 
 ## **Rules**
