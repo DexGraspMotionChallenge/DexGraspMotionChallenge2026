@@ -209,10 +209,11 @@ If you want to evaluate **human-likeness**, please run the example code with the
   organization={IEEE}
 }
 
-@article{li2023contact2grasp,
-  title={Contact2grasp: 3d grasp synthesis via hand-object contact constraint},
+@inproceedings{li2023contact2grasp,
+  title={Contact2Grasp: 3D grasp synthesis via hand-object contact constraint},
   author={Li, Haoming and Lin, Xinzhuo and Zhou, Yang and Li, Xiang and Huo, Yuchi and Chen, Jiming and Ye, Qi},
-  journal={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI-23},
+  booktitle={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence},
+  pages={1053--1061},
   year={2023}
 }
 
