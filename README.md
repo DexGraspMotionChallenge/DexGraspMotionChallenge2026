@@ -1,10 +1,17 @@
 # DexGraspMotionChallenge2026
 
+## **Sponsor**
+This challenge is proudly sponsored by **LinkerBot**. 
+We would like to express our sincere gratitude to **LinkerBot** for their generous support of this event.
+Furthermore, the **first-place winning team** will be awarded a substantial prize package provided by **LinkerBot**.
+
+![sponsor_en](assets/linkerbot.jpeg)
+
 ## Overview
 
-This repository provides example code for training and evaluating an O6 dexterous-hand grasping baseline on GraspM3 trajectories. It includes the data preprocessing pipeline, a behavior cloning training script, and Isaac Gym rollout evaluation for learned policies.
+This repository provides example code for training and evaluating an LinkerBot's LinkerHand O6 dexterous-hand grasping baseline on GraspM3 trajectories. It includes the data preprocessing pipeline, a behavior cloning training script, and Isaac Gym rollout evaluation for learned policies.
 
-The baseline code is adapted from [**DexRepNet**](https://github.com/LQTS/DexRep_Isaac), [**DexGraspMotionChallenge2025**](https://github.com/DexGraspMotionChallenge/DexGraspMotionChallenge2025), and [**DexGrasp-ZLX**](https://github.com/WillLxZhang/Dexgrasp-ZLX). The current implementation uses the LinkerHand O6 model and DexRep-style hand-object geometric observations.
+The baseline code is adapted from [**DexRepNet**](https://github.com/LQTS/DexRep_Isaac) and [**DexGrasp-ZLX**](https://github.com/WillLxZhang/Dexgrasp-ZLX). The current implementation uses the LinkerHand O6 model and DexRep-style hand-object geometric observations.
 
 ![Grasping Demo](assets/o6Grasping.gif)
 
@@ -93,15 +100,15 @@ The illustration of the initial pose of the dexterous hand is shown below. By de
   
 ## 3. Baseline Method
 
-The provided baseline is a behavior cloning policy trained from expert grasp trajectories. The policy predicts a 12-D O6 hand action at each step:
+The provided baseline is a behavior cloning policy trained from expert grasp trajectories. The policy predicts a 12-D LinkerHand O6 hand action at each step:
 
 - 3-D wrist translation,
 - 3-D wrist rotation,
 - 6-D finger joint command.
 
-The default policy network is `DexRepTemporalTCN`. It consumes a short temporal history of observations (`n_obs_steps = 8` by default) and uses a temporal convolutional encoder over DexRep observations. The default O6 DexRep observation layout is configured in `ActionDiffusion/bc/config/lhm_bc_o6_dexrep_full.yaml` and `dexgrasp/cfg/o6_hand_grasp_dexrep_ijrr.yaml`:
+The default policy network is `DexRepTemporalTCN`. It consumes a short temporal history of observations (`n_obs_steps = 8` by default) and uses a temporal convolutional encoder over DexRep observations. The default LinkerHand O6 DexRep observation layout is configured in `ActionDiffusion/bc/config/lhm_bc_o6_dexrep_full.yaml` and `dexgrasp/cfg/o6_hand_grasp_dexrep_ijrr.yaml`:
 
-- `obs_dim.prop = 77`: compact O6 proprioceptive state,
+- `obs_dim.prop = 77`: compact LinkerHand O6 proprioceptive state,
 - `dexrep_sensor_dim = 1040`: local hand-object DexRep sensor features,
 - `dexrep_pnl_dim = 640`: point/geometry features,
 - total preprocessed observation dimension: `1757`.
@@ -122,7 +129,7 @@ We randomly sampled grasp trajectory data from 75 objects to train an initial ba
 
 ### Training Example
 
-Before training the model, please download GraspM3 and place a subset of the O6 dataset in `./dexgrasp/dataset_o6_YOURS/train` and `./dexgrasp/dataset_o6_YOURS/valid`.
+Before training the model, please download GraspM3 and place a subset of the LinkerHand O6 dataset in `./dexgrasp/dataset_o6_YOURS/train` and `./dexgrasp/dataset_o6_YOURS/valid`.
 
 Run the training with:
 
@@ -200,5 +207,21 @@ If you want to evaluate **human-likeness**, please run the example code with the
   pages={3153--3160},
   year={2023},
   organization={IEEE}
+}
+
+@article{li2023contact2grasp,
+  title={Contact2grasp: 3d grasp synthesis via hand-object contact constraint},
+  author={Li, Haoming and Lin, Xinzhuo and Zhou, Yang and Li, Xiang and Huo, Yuchi and Chen, Jiming and Ye, Qi},
+  journal={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI-23},
+  year={2023}
+}
+
+@article{ye2025contact2motion,
+  title={Contact2Motion: Contact guided dexterous grasp motion generation with synergy embedded optimization},
+  author={Ye, Qi and Li, Haoming and Liu, Qingtao and Jiang, Shijian and Zhou, Tao and Huo, Yuchi and Chen, Jiming},
+  journal={The International Journal of Robotics Research},
+  pages={02783649251364392},
+  year={2025},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 ```
