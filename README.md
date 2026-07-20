@@ -76,7 +76,7 @@ The structure of the mesh data for an example object is as follows:
 
 **You can download the GraspM3 dataset** after registration. The file is named `GraspM3.tar.gz`.
 
-> **Note:**  The grasp data for the LinkerHand O6 is retargeted from the Shadow Hand; therefore, it is expected that some trajectories may fail to successfully grasp the objects. Please ensure the data is preprocessed prior to training. You can use the `data_preprocess.py` script to filter the dataset and extract only the successful grasp trajectories..
+> **Note:**  The grasp data for the LinkerHand O6 is retargeted from the Shadow Hand; therefore, it is expected that some trajectories may fail to successfully grasp the objects. Please ensure the data is preprocessed prior to training. You can use the `data_preprocess.py` script to filter the dataset and extract only the successful grasp trajectories.
 
 The compressed package contains multiple `.npy` files, each named after the object ID.
 
