@@ -5,7 +5,7 @@ This challenge is proudly sponsored by **LinkerBot**.
 We would like to express our sincere gratitude to **LinkerBot** for their generous support of this event.
 Furthermore, the **first-place winning team** will be awarded a substantial prize package provided by **LinkerBot**.
 
-![sponsor_en](assets/linkerbot.jpeg)
+![sponsor_en](assets/linkerbot-white.png)
 
 ## Overview
 
