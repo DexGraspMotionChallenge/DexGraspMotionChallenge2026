@@ -27,6 +27,8 @@ setup(
         'omegaconf==2.1.1',
         'zarr==2.13.3',
         'lxml==5.3.2',
+        'imageio==2.35.1',
+        'imageio-ffmpeg==0.4.9'
     ],
     python_requires='>=3.8',
 )
