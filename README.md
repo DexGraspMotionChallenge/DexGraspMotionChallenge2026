@@ -227,7 +227,7 @@ If you want to evaluate **human-likeness**, please run the example code with the
 }
 ```
 
-#### Leaderboard (Updated on 2026.8.6)
+## Leaderboard (Updated on 2026.8.6)
 | Team name      | Submission date | Easy track | hard track | Rank |    
 |----------------|-----------------|------------|------------|------|
 | `UVLL HandDex` | 2026.8.6        | 25.56%     | 6.52%      | 1    |
