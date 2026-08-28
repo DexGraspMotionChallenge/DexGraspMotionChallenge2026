@@ -227,11 +227,12 @@ If you want to evaluate **human-likeness**, please run the example code with the
 }
 ```
 
-## Leaderboard (Updated on 2026.8.26)
+## Leaderboard (Updated on 2026.8.28)
 > **Note:** Each team can submit up to three times.
 
-| Team name      | Submission date | Easy track | hard track | Rank |    
-|----------------|-----------------|------------|------------|------|
-| `J-Team`       | 2026.8.26       | 72.44%     | 23.89%     | 1    |
-| `UVLL HandDex` | 2026.8.6        | 25.56%     | 6.52%      | 2    |
-| `...`          |                 |            |            |      |
+| Team name         | Submission date | Easy track | hard track | Rank |    
+|-------------------|-----------------|------------|------------|------|
+| `UVLL HandDex(2)` | 2026.8.27       | 63.91%     | 39.70%     | 1    |
+| `J-Team`          | 2026.8.26       | 72.44%     | 23.89%     | 2    |
+| `UVLL HandDex`    | 2026.8.6        | 25.56%     | 6.52%      | 3    |
+| `...`             |                 |            |            |      |
