@@ -241,7 +241,7 @@ If you want to evaluate **human-likeness**, please run the example code with the
 | `J-Team(3)`       | 2026.8.31       | 58.61%     | 30.58%     | 7    |
 | `J-Team`          | 2026.8.26       | 72.44%     | 23.89%     | 8    |
 | `perception`      | 2026.8.29       | 68.80%     | 23.98%     | 9    |
-| `overgrasp`       | 2026.8.31       | 34.37%     | 8.08%      | 10   |
+| `OverGrasp`       | 2026.8.31       | 34.37%     | 8.08%      | 10   |
 | `HCBHand`         | 2026.8.31       | 32.23%     | 8.77%      | 11   |
 | `UVLL HandDex`    | 2026.8.6        | 25.56%     | 6.52%      | 12   |
 | `...`             |                 |            |            |      |
