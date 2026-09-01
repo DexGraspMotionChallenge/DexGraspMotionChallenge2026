@@ -227,15 +227,21 @@ If you want to evaluate **human-likeness**, please run the example code with the
 }
 ```
 
-## Leaderboard (Updated on 2026.8.31)
+## Leaderboard (Updated on 2026.9.1 )
 > **Note:** Each team can submit up to three times.
 
 | Team name         | Submission date | Easy track | hard track | Rank |    
 |-------------------|-----------------|------------|------------|------|
-| `HandsDown`       | 2026.8.29       | 86.91%     | 77.32%     | 1    |
-| `UVLL HandDex(3)` | 2026.8.31       | 94.61%     | 57.18%     | 2    |
-| `UVLL HandDex(2)` | 2026.8.27       | 63.91%     | 39.70%     | 3    |
-| `J-Team`          | 2026.8.26       | 72.44%     | 23.89%     | 4    |
-| `perception`      | 2026.8.29       | 68.80%     | 23.98%     | 5    |
-| `UVLL HandDex`    | 2026.8.6        | 25.56%     | 6.52%      | 6    |
+| `HandsDown(2)`    | 2026.8.31       | 91.29%     | 77.45%     | 1    |
+| `HandsDown(3)`    | 2026.8.31       | 89.86%     | 77.91%     | 2    |
+| `HandsDown`       | 2026.8.29       | 86.91%     | 77.32%     | 3    |
+| `UVLL HandDex(3)` | 2026.8.31       | 94.61%     | 57.18%     | 4    |
+| `J-Team(2)`       | 2026.8.31       | 87.20%     | 43.88%     | 5    |
+| `UVLL HandDex(2)` | 2026.8.27       | 63.91%     | 39.70%     | 6    |
+| `J-Team(3)`       | 2026.8.31       | 58.61%     | 30.58%     | 7    |
+| `J-Team`          | 2026.8.26       | 72.44%     | 23.89%     | 8    |
+| `perception`      | 2026.8.29       | 68.80%     | 23.98%     | 9    |
+| `overgrasp`       | 2026.8.31       | 34.37%     | 8.08%      | 10   |
+| `HCBHand`         | 2026.8.31       | 32.23%     | 8.77%      | 11   |
+| `UVLL HandDex`    | 2026.8.6        | 25.56%     | 6.52%      | 12   |
 | `...`             |                 |            |            |      |
